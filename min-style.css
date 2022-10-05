@@ -110,6 +110,8 @@
   border-radius: 0px 15px 0px 0px;
   background: #57bbd5;
   color: #ffff;
+  position: fixed;
+  bottom: 0;
   margin-bottom: 0px;
 }
 .footer p {
